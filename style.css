@@ -9,8 +9,9 @@
 body{
     display: grid;
     place-items: center;
-    min-height: 100vh;
+    min-height: 100vw;
     font-family: 'Manrope', sans-serif;
+    background-color:  hsl(210, 46%, 95%);
 }
 .attribution {
   font-size: 11px;
